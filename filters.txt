@@ -46,6 +46,7 @@ new.gramota.ru#@##main-sec > .block-side:last-child
 ###bg-banner
 ##.Banner_Top
 ##.adv_wrap
+##.banner
 ##.banner2
 ##.bunner
 ##.megaads
@@ -445,7 +446,6 @@ fotolink.su###banner
 freedownloadtorrent.org##.bg_link
 fromblog.ru###page > footer > .container > .suf
 fun.rufex.net###toTop > noindex > .gglhp.abl.mead
-funpic.us##.banner
 furfur.me###fixed-sidebar
 furfur.me##.app-content.page-content > .main-row.row > .row-cont > .app-content.content > .post > .pseudosidebar
 futbik.net##table > tbody > tr > td[onclick^="window.open('http"][style]
@@ -740,7 +740,6 @@ staforceteam.ru##body > div:nth-of-type(1)
 stoplinux.org.ru##div[id][style="position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; overflow: visible; background: rgba(255, 255, 255, 0.6) none repeat scroll 0% 0%; z-index: 2147483647; text-align: center;"]
 studfiles.ru##.banner_bottom_preview
 tass.ru##a[href="http://smi2.ru/"]
-tatar-inform.ru##.banner
 telegraf.by##.promo-240_400.promo-box
 testi.ru###main > .menu.normb
 testi.ru##[class^="bborder"][class*="upad"]
